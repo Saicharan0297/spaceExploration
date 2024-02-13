@@ -1,0 +1,38 @@
+body{
+    color: #82a5ca;
+    text-align: center;
+    font-style: normal;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    margin: 0;
+    
+}
+
+#hero{
+    background-image: url("./galaxy.gif");   
+    background-size: cover;  
+    padding: 10px 0px 40px 0px;
+}
+
+#title{
+    text-shadow: 0px 0px 4px black;
+}
+
+.button{
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: inherit;
+    color: #82a5ca;
+    font-weight: bold;
+}
+
+.cta{
+    border-bottom: 4px solid white;
+}
+
+#img{
+    width: 100px;
+    height: 100px;
+}
